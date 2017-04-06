@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brunoj/Desktop/PWR/sdizo 1/binaryheap.cpp
+binaryheap.h
+/home/brunoj/Desktop/PWR/sdizo 1/binaryheap.h
+cstdlib
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/binaryheap.h
+iostream
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/lista.cpp
+lista.h
+/home/brunoj/Desktop/PWR/sdizo 1/lista.h
+cstdlib
+-
+iostream
+-
+fstream
+-
+chrono
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/lista.h
+clocale
+-
+iostream
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/main.cpp
+menu.h
+/home/brunoj/Desktop/PWR/sdizo 1/menu.h
+lista.h
+/home/brunoj/Desktop/PWR/sdizo 1/lista.h
+iostream
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/menu.cpp
+menu.h
+/home/brunoj/Desktop/PWR/sdizo 1/menu.h
+lista.h
+/home/brunoj/Desktop/PWR/sdizo 1/lista.h
+tablica.h
+/home/brunoj/Desktop/PWR/sdizo 1/tablica.h
+binaryheap.h
+/home/brunoj/Desktop/PWR/sdizo 1/binaryheap.h
+iostream
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/menu.h
+
+/home/brunoj/Desktop/PWR/sdizo 1/tablica.cpp
+tablica.h
+/home/brunoj/Desktop/PWR/sdizo 1/tablica.h
+cstdlib
+-
+iostream
+-
+fstream
+-
+fcntl.h
+-
+chrono
+-
+
+/home/brunoj/Desktop/PWR/sdizo 1/tablica.h
+iostream
+-
+
